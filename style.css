@@ -10,15 +10,9 @@ body {
 }
 
 #title1 {
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Edu NSW ACT Foundation', cursive;
     text-align: center;
     color: rgb(27, 36, 87);
     font-size: 60px;
-}
-
-#title1:hover {
-    font-family:'Times New Roman', Times, serif;
-    text-align: center;
-    color: rgb(49, 64, 145);
-    font-size: 65px;
+    text-decoration: underline 2px;
 }
