@@ -102,6 +102,7 @@ header {
 #about {
     background-color: rgb(253, 162, 200);
     margin: 20px 0px;
+    border-radius: 5px;
 }
 
 #perfil {
