@@ -25,15 +25,59 @@ header {
 }
 
 .navbar-toggler {
-    background-color: rgb(255, 138, 196);
+    background-color: rgb(253, 153, 195);
     border-radius: 6px;
+    border-style: solid;
+    border-color: rgb(250, 144, 188);
 }
 
 .navbar-toggler:hover {
-    background-color:rgb(255, 101, 178);
+    background-color:rgb(255, 214, 161);
     border-radius: 6px;
+    border-style: solid;
+    border-color: rgb(240, 185, 114);
 }
 
-.navbar-toggler-icon {
-    color:rgb(255, 214, 161);
+#nav-icon {
+    color:rgba(110, 122, 190, 0.836);
+    font-size: x-large;
+    margin-top: 3px;
+}
+
+#a {
+    color:rgb(27, 36, 87);
+    text-decoration: none;
+}
+
+#a:hover {
+    color:rgb(100, 116, 204);
+    text-decoration: none;
+}
+
+.btn {
+    background-color: rgb(253, 153, 195);
+    border-radius: 6px;
+    border-style: solid;
+    border-color: rgb(250, 144, 188);
+}
+
+.btn:hover {
+    background-color:rgb(255, 214, 161);
+    border-radius: 6px;
+    border-style: solid;
+    border-color: rgb(240, 185, 114);
+}
+
+#sicon {
+    color:rgba(110, 122, 190, 0.836);
+}
+
+#sbar {
+    background-color:rgb(250, 229, 229);
+    border-color: rgb(250, 144, 188);
+}
+
+#sbar:hover {
+    background-color:rgb(253, 209, 209);
+    border-color: rgb(250, 144, 188);
 }
