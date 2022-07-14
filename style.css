@@ -9,14 +9,14 @@ body {
     background-color:antiquewhite;
 }
 
-h1 {
+#title1 {
     font-family:'Times New Roman', Times, serif;
     text-align: center;
     color: rgb(27, 36, 87);
     font-size: 60px;
 }
 
-h1:hover {
+#title1:hover {
     font-family:'Times New Roman', Times, serif;
     text-align: center;
     color: rgb(49, 64, 145);
