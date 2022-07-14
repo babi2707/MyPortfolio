@@ -1,3 +1,10 @@
-h1 { color: blueviolet;
-text-align: center;
-background-color: azure;}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body {
+    background-color: antiquewhite;
+}
